@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(91, 112, 206);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+}
+input{
+    background-color: white;
+}
+input[type="text"]{
+    width: 15%;
+    height: 25px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 5px;
+    text-align: center;
+    margin-left: 42%;
+    color: white;
+    
+    
+}
+input[type="checkbox"]{
+    width: 18px;
+    height: 18px;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px;
+}
+
